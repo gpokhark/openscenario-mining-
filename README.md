@@ -29,22 +29,25 @@ data/repos.csv --collect--> raw/ --parse--> parsed/file_versions --evolve--> par
 
 ## Install
 
-Python >= 3.10, `git` on the PATH.
+Requires [uv](https://docs.astral.sh/uv/) and `git` on the PATH. uv creates
+the virtual environment (`.venv/`) and installs Python >= 3.10 and the
+dependencies pinned in `uv.lock`.
 
 ```bash
-pip install -r requirements.txt      # lxml, pyarrow, jsonschema, and the package itself
+uv sync --extra parquet --extra dev   # lxml, pyarrow, jsonschema, and the package itself
 ```
 
 The collector uses only the standard library; `parse` and `evolve` need `lxml`;
-Parquet output needs `pyarrow`.
+Parquet output needs `pyarrow`. Run every command below through `uv run`, which
+uses that environment; there is no need to activate it.
 
 ## Quick start (no cloning)
 
 The repo bundles a small pilot sample (five repositories, Parquet) in `data/sample/`.
 
 ```bash
-python examples/quickstart.py
-python -m scenariomine find --data data/sample --topic collision --limit 5
+uv run python examples/quickstart.py
+uv run python -m scenariomine find --data data/sample --topic collision --limit 5
 ```
 
 ```python
@@ -60,31 +63,31 @@ ds.changes(kind="parameters")
 
 ```bash
 # 1. Collect (slow for the full list; use --only to try one repository)
-python -m scenariomine collect --jobs 4 --only esmini/esmini
+uv run python -m scenariomine collect --jobs 4 --only esmini/esmini
 
 # 2. Fetch the ASAM XSDs (not redistributed here, see Licensing)
-python -m scenariomine fetch-schemas
+uv run python -m scenariomine fetch-schemas
 
 # 3. Parse and link versions
-python -m scenariomine parse --parquet
-python -m scenariomine evolve --parquet
+uv run python -m scenariomine parse --parquet
+uv run python -m scenariomine evolve --parquet
 
 # 4. Validate and check
-python -m scenariomine validate
-python -m scenariomine validate --rows parsed/scenario_changes.jsonl \
+uv run python -m scenariomine validate
+uv run python -m scenariomine validate --rows parsed/scenario_changes.jsonl \
     --schema schema/scenario_change.schema.json
-python -m scenariomine qc
+uv run python -m scenariomine qc
 ```
 
 Output goes to `raw/` and `parsed/` (git-ignored). `data/repos.csv` is the
 frozen repository list, with a licence class per repository; hand-checked
 decisions are in `data/license_overrides.csv`. To rebuild the bundled sample
-from a full `parsed/` run: `python scripts/make_sample.py`.
+from a full `parsed/` run: `uv run python scripts/make_sample.py`.
 
 ## Repository layout
 
 ```
-scenariomine/    Python package (CLI entry point: python -m scenariomine)
+scenariomine/    Python package (CLI entry point: uv run python -m scenariomine)
 schema/          JSON Schemas: scenario_version, scenario_change
 data/            repos.csv, license_overrides.csv, sample/ (pilot Parquet)
 examples/        quickstart.py

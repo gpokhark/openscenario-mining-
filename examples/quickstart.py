@@ -1,4 +1,4 @@
-"""Run with: python examples/quickstart.py   (needs: pip install -e '.[parquet]')
+"""Run with: uv run --extra parquet python examples/quickstart.py
 
 Uses the bundled pilot sample (5 repositories), so nothing is cloned or downloaded.
 """
