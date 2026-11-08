@@ -27,6 +27,20 @@ data/repos.csv --collect--> raw/ --parse--> parsed/file_versions --evolve--> par
 | `find` | Search a parsed corpus by topic, weather, etc., reporting licence and a GitHub permalink. |
 | `snapshot` | Freeze a repository inventory (`--inventory`, a CSV from the discovery step) into `data/repos.csv`. Not needed to reproduce a run. |
 
+## The Claude Code skills
+
+The tool is meant to be driven from [Claude Code](https://claude.com/claude-code)
+through two project skills in `.claude/skills/`. Open Claude Code in this
+repository and they load automatically.
+
+| Skill | What it does |
+| --- | --- |
+| `/find-scenarios <description>` | Finds scenarios for a topic (collision, near miss, cut-in, pedestrian crossing, intersection, ...). Runs `scenariomine find`, ranks hits, and reports the evidence, the licence and a GitHub permalink, applying the licence and caveat rules. Works on the bundled sample out of the box. |
+| `/mine-scenarios <repos or all>` | Runs the pipeline (collect, parse, evolve, validate, summarise) for chosen repositories from `data/repos.csv`. |
+
+Example: `/find-scenarios pedestrian crossing at night`. The same searches work
+without Claude via `uv run python -m scenariomine find --topic ...`.
+
 ## Install
 
 Requires [uv](https://docs.astral.sh/uv/) and `git` on the PATH. uv creates
@@ -91,6 +105,7 @@ scenariomine/    Python package (CLI entry point: uv run python -m scenariomine)
 schema/          JSON Schemas: scenario_version, scenario_change
 data/            repos.csv, license_overrides.csv, sample/ (pilot Parquet)
 examples/        quickstart.py
+.claude/skills/  find-scenarios and mine-scenarios (Claude Code skills)
 scripts/         make_sample.py
 ```
 
