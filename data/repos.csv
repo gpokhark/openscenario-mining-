@@ -1,0 +1,362 @@
+full_name,xosc_file_count,license_spdx,license_class,license_name,license_source,default_branch,stars,pushed_at,tree_truncated,snapshot_date
+946548737619/LeaderboardV2_Roach,28,MIT,permissive,MIT License,github,main,1,2024-10-29T07:07:24Z,False,2026-10-04
+aBaja-2026/SoftwareVirtualWorldScenarios,6,,review,,github,main,7,2026-03-29T19:10:23Z,False,2026-10-04
+Abhijith14/ML-MAS-Framework,13,GPL-3.0,copyleft,GNU General Public License v3.0,github,master,0,2023-10-17T23:19:33Z,False,2026-10-04
+Abhijith14/MLMAS-Carla,26,,review,,github,master,6,2023-04-23T16:44:36Z,False,2026-10-04
+adept-thu/MomAD,30,MIT,permissive,MIT License,github,main,449,2026-06-22T01:57:28Z,False,2026-10-04
+ADS-Testing/MORLOT,13,Apache-2.0,permissive,Apache License 2.0,github,main,1,2024-04-25T13:03:13Z,False,2026-10-04
+AfrifaEben7/v2x_testing_app,4,,review,,github,main,1,2024-04-19T20:56:40Z,False,2026-10-04
+AhaanKotian/VLM_VQA,15,,review,,github,main,0,2025-06-13T09:44:02Z,False,2026-10-04
+ahmedrh99/RI_Autonomous_Overtaking,10,,review,,github,main,1,2025-07-08T15:53:50Z,False,2026-10-04
+ahmetfsaz/GOLBSCNSR,13,Apache-2.0,permissive,Apache License 2.0,github,main,0,2026-08-01T01:51:05Z,False,2026-10-04
+AIasd/ADFuzz,12,MIT,permissive,MIT License,github,main,34,2022-07-13T15:33:47Z,False,2026-10-04
+AIasd/AutoCop,12,,review,,github,main,0,2021-12-05T23:13:21Z,False,2026-10-04
+AICPS/roadscene2vec,10,MIT,permissive,MIT License,github,main,69,2023-07-16T22:46:03Z,False,2026-10-04
+akodama428/DriveLM,15,,review,,github,DriveLM-CARLA,1,2024-12-15T13:18:00Z,False,2026-10-04
+Akshay-sudo-ux/esmini-regression,10,,review,,github,main,0,2025-09-01T03:29:40Z,False,2026-10-04
+alshukairi/MLMAS-Framework-AAMAS23,26,GPL-3.0,copyleft,GNU General Public License v3.0,github,main,5,2023-05-31T19:03:44Z,False,2026-10-04
+anand-bala/pyesminilib,63,MIT,permissive,MIT License,github,dev,1,2024-03-09T10:48:25Z,False,2026-10-04
+Andre862/ros2_ws,100,,review,,github,main,0,2026-05-26T11:52:31Z,False,2026-10-04
+anyboby/CarlaRL,3,,review,,github,master,6,2021-01-28T08:34:41Z,False,2026-10-04
+AOOOOOA/ICSFuzz,23,MIT,permissive,MIT License,github,master,4,2024-08-10T08:21:26Z,False,2026-10-04
+arhum-code/carla-cicd-pipeline,80,,review,,github,main,0,2026-03-26T05:08:54Z,False,2026-10-04
+ArielMobileLab/System,1,,review,,github,main,0,2026-05-03T07:50:34Z,False,2026-10-04
+arminstr/ros_scenario_simulation,32,,review,,github,main,11,2022-04-25T12:09:44Z,False,2026-10-04
+asam-ev/qc-framework,3,MPL-2.0,permissive,Mozilla Public License 2.0,github,main,23,2026-02-19T22:07:10Z,False,2026-10-04
+asam-ev/qc-openscenarioxml,63,MPL-2.0,permissive,Mozilla Public License 2.0,github,main,9,2025-12-11T08:37:17Z,False,2026-10-04
+ast-fortiss-tum/MultiSim,3,,review,,github,main,2,2026-02-20T13:39:04Z,False,2026-10-04
+ast-fortiss-tum/simfusion,25,,review,,github,main,0,2026-08-21T21:29:01Z,False,2026-10-04
+AugmentedDesignLab/scenario-generator,15,MIT,permissive,MIT License,github,main,0,2023-07-28T17:20:49Z,False,2026-10-04
+autofuzz2020/AutoFuzz,12,,review,,github,main,19,2022-12-08T17:48:20Z,False,2026-10-04
+AutoMerge-model-reuse/AutoMerge,13,,review,,github,main,0,2025-11-20T17:08:23Z,False,2026-10-04
+AutonomousDrivingExaminer/mats-gym,3,MIT,permissive,MIT License,github,main,52,2024-07-03T09:48:30Z,False,2026-10-04
+autonomousvision/CaRL,30,LicenseRef-Civil-M,review,LicenseRef-Civil-M,"manual: MIT text plus Civil Clause v1 (no weapons use; derivatives must keep clause): a field-of-use restriction, so not treated as permissive; pointer-only (checked 2026-10-04)",main,165,2026-08-13T12:35:41Z,False,2026-10-04
+baderabdallah/IMLCA,8,,review,,github,develop,0,2026-02-24T18:52:17Z,False,2026-10-04
+BaitingLuo/Dynamic_Simplex,26,,review,,github,main,1,2024-10-11T03:46:34Z,False,2026-10-04
+BaoyiCui/AutonomousVehiclePnCCourseProjects,6,,review,,github,main,1,2025-01-13T02:53:29Z,False,2026-10-04
+Barry0708/carla,2,,review,,github,main,0,2025-09-06T06:56:03Z,False,2026-10-04
+BELIV-ASU/osc2-rag-scenario-gen,24,,review,,github,main,0,2026-02-25T05:22:01Z,False,2026-10-04
+BELIV-ASU/Scenario-Runner-0.9.15-Nithish-Thesis,22,MIT,permissive,MIT License,github,main,0,2025-03-18T23:08:40Z,False,2026-10-04
+Bichen07/gpl-odd-project,87,,review,,github,main,0,2026-08-21T08:21:54Z,False,2026-10-04
+bixuan0/timeway-open,4,GPL-3.0,copyleft,GNU General Public License v3.0,github,main,0,2026-09-02T05:26:37Z,False,2026-10-04
+BorhaneddineHamadou/physcheck-benchmark,1105,,review,,github,main,0,2026-07-21T09:17:53Z,False,2026-10-04
+BorisBarbarossa/testermini,130,MPL-2.0,permissive,Mozilla Public License 2.0,github,master,0,2023-06-12T12:16:52Z,False,2026-10-04
+bowenliv/CMSC_MLpdg,13,,review,,github,main,0,2023-06-06T16:10:00Z,False,2026-10-04
+britig/Hierarchical-Program-Triggered-RL,10,MIT,permissive,MIT License,github,main,14,2022-01-07T06:02:09Z,False,2026-10-04
+BufuZhou/shenlan_e2e,15,,review,,github,main,0,2026-04-26T16:30:08Z,False,2026-10-04
+caixxuan/Text2Scenario.GitHub.io,33,,review,,github,main,24,2025-09-28T02:57:44Z,False,2026-10-04
+carla-simulator/scenario_runner,22,MIT,permissive,MIT License,github,master,681,2026-09-12T10:10:49Z,False,2026-10-04
+carlaar/domain_aware_via_sngp_for_e2e_ad,13,GPL-3.0,copyleft,GNU General Public License v3.0,github,main,1,2025-09-17T14:48:30Z,False,2026-10-04
+CarlaScenes/CarlaSence,2,,review,,github,main,33,2024-01-06T02:59:03Z,False,2026-10-04
+carsmos/oasis-server,2,Apache-2.0,permissive,Apache License 2.0,github,master,4,2023-08-21T08:10:07Z,False,2026-10-04
+charles-lei/openscenario_validator,19,MIT,permissive,MIT License,github,main,3,2022-09-28T13:03:32Z,False,2026-10-04
+chrissunny94/CARLA_BEVFUSION,18,,review,,github,master,1,2026-01-04T15:16:44Z,False,2026-10-04
+ChristianSiebke/DReaM-Driver-Reaction-Model,93,EPL-2.0,permissive,Eclipse Public License 2.0,policy: weak copyleft treated as redistributable with per-file notice,main,1,2025-01-20T20:25:25Z,False,2026-10-04
+clementfung/adversarial-scenario-runner,13,MIT,permissive,MIT License,github,main,0,2024-04-24T19:10:05Z,False,2026-10-04
+CollaborativePerception/V2Xverse,13,,review,,github,main,187,2025-09-11T02:54:47Z,False,2026-10-04
+CommonRoad/commonroad-openscenario-converter,15,BSD-3-Clause,permissive,"BSD 3-Clause ""New"" or ""Revised"" License",github,develop,3,2025-01-23T02:18:19Z,False,2026-10-04
+cvims/DrivIng,15,MIT,permissive,MIT License,github,main,44,2026-02-11T15:12:00Z,False,2026-10-04
+cxliu0314/CoLMDriver,13,Apache-2.0,permissive,Apache License 2.0,github,main,53,2025-10-11T07:55:04Z,False,2026-10-04
+czg2066/CMU-BP,15,MIT,permissive,MIT License,github,CMU-BP,0,2025-06-14T12:02:10Z,False,2026-10-04
+DanielCoelho112/priboot,17,,review,,github,main,1,2024-06-17T18:00:39Z,False,2026-10-04
+darkaengl/REAL,22,MIT,permissive,MIT License,github,main,1,2026-06-12T15:07:38Z,False,2026-10-04
+das-rise/AccidentDataImputationPaperSMR,5,MIT,permissive,MIT License,github,main,0,2025-09-24T19:37:05Z,False,2026-10-04
+David-Sola/Open_Scenario_Maps,12,,review,,github,master,1,2020-06-06T09:23:15Z,False,2026-10-04
+dawoodwasif/DBRA-for-AVs-Safety,42,LGPL-2.1,copyleft,LGPL-2.1,manual: LICENSE is Fraunhofer IESE GNU Library GPL text; pointer-only (checked 2026-10-04),main,0,2024-10-24T02:49:45Z,False,2026-10-04
+ddmonster/MLMAS_Project,26,MIT,permissive,MIT License,github,main,0,2024-08-07T23:08:11Z,False,2026-10-04
+Delashabee/Carla_esmini_Omniverse,5,,review,,github,main,1,2025-07-15T04:14:52Z,False,2026-10-04
+DHRUV6029/pERCPT-engine,10,,review,,github,master,0,2024-05-29T03:07:40Z,False,2026-10-04
+dilektayli/capstone-autocare-tubitak2209A,10,,review,,github,main,0,2025-03-17T11:36:25Z,False,2026-10-04
+dk-kling/drivefuzz,2,,review,,github,master,21,2023-04-05T12:31:02Z,False,2026-10-04
+dk-kling/H-Scenario-Generator,2,,review,,github,master,0,2023-06-09T08:15:24Z,False,2026-10-04
+dkarunakaran/concrete_scenario_generation_real_world,151,,review,,github,master,0,2022-09-19T00:32:50Z,False,2026-10-04
+dkarunakaran/scenario_extraction_framework,15,,review,,github,main,10,2022-02-18T13:56:55Z,False,2026-10-04
+DLR-TS/OSTAR-Quickstart,2,EPL-2.0,permissive,Eclipse Public License 2.0,policy: weak copyleft treated as redistributable with per-file notice,main,6,2025-06-26T08:29:24Z,False,2026-10-04
+DLR-TS/ue_esmini_feature,5,EPL-2.0,permissive,Eclipse Public License 2.0,policy: weak copyleft treated as redistributable with per-file notice,main,1,2025-12-19T14:51:01Z,False,2026-10-04
+driskai/scenario_gym,28,MIT,permissive,MIT License,github,main,47,2025-05-19T14:07:44Z,False,2026-10-04
+Drive1nsight/driveinsightD,156,,review,,github,main,2,2025-12-17T11:19:45Z,False,2026-10-04
+DriveFusion/carla-data-collection,30,Apache-2.0,permissive,Apache License 2.0,github,main,1,2026-02-07T11:48:45Z,False,2026-10-04
+DRL-CASIA/ICV-book,10,,review,,github,main,22,2022-11-14T16:55:45Z,False,2026-10-04
+duandarui0711/autoware,6,Apache-2.0,permissive,Apache License 2.0,github,master,0,2025-06-19T09:45:56Z,False,2026-10-04
+e-taha/Cmpe492-Junction-Simulation,4,,review,,github,main,0,2026-06-10T17:12:16Z,False,2026-10-04
+ebadi/esmini-pybind11-devel,60,,review,,github,master,0,2021-09-13T12:26:56Z,False,2026-10-04
+ece257b/Sensor-Fusion-for-Autonomous-Driving,15,,review,,github,main,1,2025-03-21T05:33:49Z,False,2026-10-04
+eddy-brde/openxiledu,3,Apache-2.0,permissive,Apache License 2.0,github,main,2,2026-08-24T21:25:51Z,False,2026-10-04
+EFS-OpenSource/OSC-Generator,5,Apache-2.0,permissive,Apache License 2.0,github,main,21,2023-10-13T14:32:10Z,False,2026-10-04
+Egerialiu/momad_new,30,,review,,github,main,0,2026-08-17T15:26:38Z,False,2026-10-04
+EKostinoudis/Carla_Autonomous_Driving,15,MIT,permissive,MIT License,github,master,31,2024-12-31T16:58:22Z,False,2026-10-04
+ENGSSG/Carla_Mobile_Phone_Control,2,,review,,github,main,0,2025-07-21T01:56:35Z,False,2026-10-04
+erichkw528/Carla-Scenario-Runner,16,MIT,permissive,MIT License,github,develop,0,2023-12-17T07:34:36Z,False,2026-10-04
+ErikPaurson/autonoomsed-s-idukid,5,,review,,github,main,0,2025-06-03T14:50:14Z,False,2026-10-04
+esmini/esmini,247,MPL-2.0,permissive,Mozilla Public License 2.0,github,master,943,2026-09-10T15:38:06Z,False,2026-10-04
+FabioskySG/LMDrive_v1,13,,review,,github,main,0,2024-11-07T11:40:33Z,False,2026-10-04
+FabioskySG/nuPDM,15,,review,,github,master,1,2025-09-02T10:34:27Z,False,2026-10-04
+fachrinnk4869/skge-swin,13,MIT,permissive,MIT License,github,main,0,2025-08-11T11:47:33Z,False,2026-10-04
+fatemehprhm/Simple-data-processors-for-carla-and-esmini-with-their-open-scenario-files,9,MIT,permissive,MIT License,github,main,0,2025-06-29T15:25:59Z,False,2026-10-04
+feyza-droid/scenario-based-rl,15,,review,,github,main,3,2022-03-05T11:57:45Z,False,2026-10-04
+FFangx/openx-scenario-workbench,1,MIT,permissive,MIT License,github,main,0,2026-09-13T13:03:21Z,False,2026-10-04
+fhaiel/critical_scenario_dsl,63,,review,,github,main,0,2026-05-17T16:48:02Z,False,2026-10-04
+flixtkc/Unsupervised-Segmentation-for-Autonomous-Driving-Cars,13,,review,,github,main,0,2024-07-26T12:24:54Z,False,2026-10-04
+fzi-forschungszentrum-informatik/corner_case_ontology,31,,review,,github,main,17,2025-12-04T08:08:01Z,False,2026-10-04
+GabrielZZZ/MT-scenario-runner-for-CARLA,15,MIT,permissive,MIT License,github,main,0,2025-12-31T04:45:24Z,False,2026-10-04
+GAIA-X4PLC-AAD/scenario-asset-example,2,MPL-2.0,permissive,MPL-2.0,manual: LICENSE states MPL 2.0 (checked 2026-10-04); detector NOASSERTION,main,2,2025-04-08T06:00:57Z,False,2026-10-04
+GeerXie/Sim2Real-DrivIng,15,MIT,permissive,MIT License,github,main,0,2026-02-24T02:35:38Z,False,2026-10-04
+gjy3489/carla-driving-coach,22,,review,,github,main,1,2026-05-15T13:41:56Z,False,2026-10-04
+GT-karny/GT-OpenSCENARIOEditor,85,Apache-2.0,permissive,Apache License 2.0,github,main,1,2026-07-30T17:51:43Z,False,2026-10-04
+GuannanLou/Congested-ADS-Testing,13,Apache-2.0,permissive,Apache License 2.0,github,main,0,2026-05-08T14:01:24Z,False,2026-10-04
+GuannanLou/Project,13,Apache-2.0,permissive,Apache License 2.0,github,main,0,2026-09-11T10:09:50Z,False,2026-10-04
+gunashekhar-v/CARLA_ROS2_MPC,4,,review,,github,main,3,2025-05-09T10:43:53Z,False,2026-10-04
+hae-sung-oh/MVAdapt,15,MIT,permissive,MIT License,github,main,5,2026-04-15T01:23:07Z,False,2026-10-04
+hammaad2002/MyCPlusPlusLearning,1,,review,,github,main,0,2024-08-26T19:14:06Z,False,2026-10-04
+hangqiu/AutoCastSim,10,,review,,github,master,52,2022-09-23T04:19:23Z,False,2026-10-04
+HanjiangHu/Multi-LiDAR-Placement-for-3D-Detection,14,MIT,permissive,MIT License,github,main,47,2022-09-06T04:07:53Z,False,2026-10-04
+HarveyMiao/xosc-modifier,495,,review,,github,main,3,2023-04-27T08:38:07Z,False,2026-10-04
+HasnainBadar/adas-thesis,158,MIT,permissive,MIT License,github,main,0,2026-06-06T18:26:42Z,False,2026-10-04
+hatem-darweesh/scenario_runner,17,MIT,permissive,MIT License,github,master,6,2022-06-02T13:23:38Z,False,2026-10-04
+HCIS-Lab/IDS_s24,54,,review,,github,main,1,2024-04-17T18:42:04Z,False,2026-10-04
+HCIS-Lab/pdm-f24,15,,review,,github,main,0,2024-11-23T17:35:41Z,False,2026-10-04
+HCISMoMoParadox/Acceleration-of-Scenario-Generation-in-CARLA,2,,review,,github,main,3,2023-01-08T11:56:46Z,False,2026-10-04
+Hennzau/fourretout,15,,review,,github,main,2,2026-05-30T11:12:12Z,False,2026-10-04
+henrySunyh/Carla-Roach-Data-Collection,22,CC-BY-NC-4.0,review,CC-BY-NC-4.0,manual: non-commercial licence; pointer-only (checked 2026-10-04),main,0,2025-12-13T03:34:24Z,False,2026-10-04
+hk-zh/p-csg,13,MIT,permissive,MIT License,github,main,3,2024-05-10T07:42:23Z,False,2026-10-04
+hlrs-vis/covise,56,,review,,github,master,202,2026-09-11T17:29:45Z,False,2026-10-04
+hlrs-vis/openpass,6,,review,,github,master,4,2019-11-05T14:22:00Z,False,2026-10-04
+hofbi/telecarla,13,MIT,permissive,MIT License,github,master,58,2026-08-04T08:48:30Z,False,2026-10-04
+hotdogcheesewhite/DeepSight,15,Apache-2.0,permissive,Apache License 2.0,github,main,30,2026-07-27T08:00:37Z,False,2026-10-04
+hplikespepper/pathplanning,45,MIT,permissive,MIT License,github,main,0,2026-04-18T01:16:47Z,False,2026-10-04
+ika-rwth-aachen/carlos,3,MIT,permissive,MIT License,github,main,61,2025-10-31T09:06:52Z,False,2026-10-04
+ika-rwth-aachen/scenario_quality_checker,20,MIT,permissive,MIT License,github,main,4,2026-09-03T20:06:23Z,False,2026-10-04
+initiative416/SituationCoverageTest,13,MIT,permissive,MIT License,github,main,0,2023-04-10T09:15:48Z,False,2026-10-04
+Intelligent-Vehicles-Lab-HM/BEVDriver,13,,review,,github,main,68,2026-07-28T11:58:41Z,False,2026-10-04
+intelligent-vehicles/https---github.com-intelligent-vehicles-BEVDriver,13,,review,,github,main,0,2025-06-17T13:29:31Z,False,2026-10-04
+IPG-Automotive-CN/osgWebApp,63,,review,,github,main,1,2024-11-26T05:59:11Z,False,2026-10-04
+ipg-dhrithi-dk/CM_Project_cSimulation,17,,review,,github,master,0,2026-03-11T04:03:18Z,False,2026-10-04
+ISET/isetauto,3,Apache-2.0,permissive,Apache License 2.0,github,master,11,2024-09-10T04:32:06Z,False,2026-10-04
+ishaan95/scenario-generator,16,MIT,permissive,MIT License,github,main,0,2023-09-14T02:12:58Z,False,2026-10-04
+ishaan95/TheLongTail,15,MIT,permissive,MIT License,github,main,0,2021-12-08T01:16:04Z,False,2026-10-04
+jakeaboganda/openscenario-mcp,3,Apache-2.0,permissive,Apache License 2.0,github,main,1,2026-07-12T08:53:09Z,False,2026-10-04
+JaRei/sinadra,41,LGPL-2.1,copyleft,LGPL-2.1,"manual: LICENSE is Fraunhofer IESE LGPL text, README badge LGPL 2.1; pointer-only (checked 2026-10-04)",main,23,2021-09-09T15:10:19Z,False,2026-10-04
+Jav1Star/Orion-adaption,15,Apache-2.0,permissive,Apache License 2.0,github,main,0,2026-07-27T01:08:05Z,False,2026-10-04
+javedulu/ad-xolib,1,MIT,permissive,MIT License,github,master,92,2023-02-10T14:00:37Z,False,2026-10-04
+jeremiaaxel/scenario_runner,15,MIT,permissive,MIT License,github,main,0,2023-07-13T08:37:46Z,False,2026-10-04
+Jerry-Auto/AD_algorithm,34,MIT,permissive,MIT License,github,main,1,2026-02-28T14:39:26Z,False,2026-10-04
+Jerry-Auto/carla_AD_algorithm,34,MIT,permissive,MIT License,github,main,0,2026-01-31T13:56:28Z,False,2026-10-04
+Jete0249/ros2_ws,1,,review,,github,main,0,2025-05-21T07:39:20Z,False,2026-10-04
+JiachengZuo/STF,13,,review,,github,main,0,2026-09-10T02:45:16Z,False,2026-10-04
+JiahaoZZhang/ros-bridge,2,MIT,permissive,MIT License,github,master,0,2026-04-14T10:33:28Z,False,2026-10-04
+jimlin2004/CarlaRL,3,,review,,github,main,1,2024-05-26T03:35:40Z,False,2026-10-04
+jodi106/AI_Testing_Simulator,29,MIT,permissive,MIT License,github,main,5,2023-08-13T07:48:53Z,False,2026-10-04
+jonathsch/lidar-synthesis,13,MIT,permissive,MIT License,github,main,19,2024-05-16T00:31:12Z,False,2026-10-04
+jouisseuse/ExplorIt-TOSEM26,12,,review,,github,master,0,2026-06-30T08:54:34Z,False,2026-10-04
+june21a/CAPSTONE_DESIGN_1,45,,review,,github,main,0,2026-06-20T01:51:26Z,False,2026-10-04
+JunjieWang95/CarlaHighwayTest,10,MIT,permissive,MIT License,github,main,39,2021-09-22T07:29:55Z,False,2026-10-04
+junyang0412/esmini,110,MPL-2.0,permissive,Mozilla Public License 2.0,github,master,0,2022-11-22T09:02:32Z,False,2026-10-04
+justinbrianhwang/TransFuser_UI_V2,13,MIT,permissive,MIT,manual: LICENSE is MIT; xosc files are vendored CARLA scenario_runner examples (checked 2026-10-04),main,3,2026-05-11T06:15:26Z,False,2026-10-04
+Kaiser-75/Carla_scenario_sim,2,MIT,permissive,MIT License,github,main,0,2025-01-16T07:26:17Z,False,2026-10-04
+kdfkjlk/TARGET,16,,review,,github,main,2,2023-10-05T07:08:58Z,False,2026-10-04
+keishihara/carla-gym,45,,review,,github,main,0,2025-06-18T16:20:02Z,False,2026-10-04
+kemjensak/carla-autoware,3,MIT,permissive,MIT License,github,0.9.13,3,2022-07-25T11:48:22Z,False,2026-10-04
+kemjensak/op_rollout_modifier,1,,review,,github,master,0,2022-07-26T09:11:00Z,False,2026-10-04
+KeyingLucyWang/Safe_Reconfiguration_Scenarios,10,MIT,permissive,MIT License,github,master,4,2020-09-15T04:38:32Z,False,2026-10-04
+Kguo-cs/iPad,15,Apache-2.0,permissive,Apache License 2.0,github,main,144,2026-06-11T04:22:30Z,False,2026-10-04
+kjs2109/AD-Carla-Simulator,26,,review,,github,main,0,2025-02-28T13:15:21Z,False,2026-10-04
+kodama-tier4/esmini-sim,10,,review,,github,main,0,2024-03-11T08:14:23Z,False,2026-10-04
+kodama-tier4/esmini-simulation,1,,review,,github,main,0,2023-08-31T07:31:55Z,False,2026-10-04
+kohei-tateyama/simlingo,60,Apache-2.0,permissive,Apache License 2.0,github,main,0,2026-02-18T05:57:38Z,False,2026-10-04
+kyuhoJeong11/GrewRL,2,MIT,permissive,MIT License,github,master,0,2021-12-16T07:57:17Z,False,2026-10-04
+L5Player/AutoDriving-Planning-Control-Algorithm-Simulation-Carla,16,Unlicense,permissive,The Unlicense,github,master,321,2023-09-01T01:03:08Z,False,2026-10-04
+labrie-taltech/ros2_ws2,1,,review,,github,main,0,2025-05-14T06:37:00Z,False,2026-10-04
+Larissa0829/My-Carla,2,,review,,github,master,0,2024-04-19T08:45:57Z,False,2026-10-04
+lasuomela/carla_vloc_benchmark,7,MIT,permissive,MIT License,github,main,24,2023-09-25T12:08:48Z,False,2026-10-04
+leanderpeter/alks-scenario-sampler,152,,review,,github,main,7,2021-06-14T07:23:49Z,False,2026-10-04
+leeseho/CARLA_OpenScenario,12,,review,,github,master,8,2023-03-10T06:19:41Z,False,2026-10-04
+less-lab-uva/T4PC,13,GPL-3.0,copyleft,GNU General Public License v3.0,github,main,1,2025-05-08T17:20:12Z,False,2026-10-04
+Leviathan321/openscenario.github.io,72,,review,,github,main,0,2023-02-09T20:23:16Z,False,2026-10-04
+lexasss/scenario_runner-0.9.13,15,MIT,permissive,MIT License,github,master,0,2023-08-25T14:51:44Z,False,2026-10-04
+lexasss/scenario_runner_tauchi,15,,review,,github,main,0,2025-06-18T10:22:49Z,False,2026-10-04
+lgsvl/simulator-2019.05-obsolete,8,LicenseRef-LGSVL-EULA,review,LicenseRef-LGSVL-EULA,manual: proprietary software licence agreement; pointer-only (checked 2026-10-04),master,7,2019-11-12T23:36:02Z,False,2026-10-04
+lichengguang/scenario_runner,22,MIT,permissive,MIT License,github,main,0,2025-06-09T05:57:49Z,False,2026-10-04
+LifelongWay/XOSC-TestScenarios,15,,review,,github,master,2,2025-09-11T11:18:11Z,False,2026-10-04
+LIIHWF/testing-end-to-end-ai-autopilots,65,,review,,github,main,0,2025-03-24T07:13:20Z,False,2026-10-04
+limllll/HRAMA,13,,review,,github,master,0,2026-05-12T08:10:08Z,False,2026-10-04
+liyanlee/PanoSim_OpenScenario,22,MIT,permissive,MIT License,github,main,1,2025-01-08T06:37:36Z,False,2026-10-04
+liyanlee/PanoSim_OpenScenario2,22,MIT,permissive,MIT License,github,main,1,2025-01-08T01:53:45Z,False,2026-10-04
+liyunwei-3558/OpenScenarioEditor,7,MIT,permissive,MIT License,github,main,1,2023-05-11T11:52:41Z,False,2026-10-04
+Lme20/openscenario-osint-generator,14,MIT,permissive,MIT License,github,main,1,2026-07-10T23:43:15Z,False,2026-10-04
+LogosRoboticsGroup/VeteranAD,15,MIT,permissive,MIT License,github,master,88,2025-12-25T06:47:36Z,False,2026-10-04
+lolainta/esmini-bridge-autoware,162,,review,,github,main,0,2025-09-30T04:51:54Z,False,2026-10-04
+lxy-123-lxy/openscenario2uppaal,20,,review,,github,main,0,2026-01-11T12:07:04Z,False,2026-10-04
+maalsolami/telecarla,13,MIT,permissive,MIT License,github,main,0,2024-09-20T18:18:20Z,False,2026-10-04
+MailsonD/Carla_MetamorphicTesting_LBC,13,,review,,github,main,3,2021-01-15T02:09:54Z,False,2026-10-04
+manolotis/carla-scenario-runner-0.9.13,15,MIT,permissive,MIT License,github,main,0,2023-03-13T16:35:21Z,False,2026-10-04
+mariocelzo/adas_testing,6,,review,,github,main,2,2025-11-18T12:51:50Z,False,2026-10-04
+Max-1925/BehaviorTree1,47,,review,,github,main,0,2024-08-12T02:28:48Z,False,2026-10-04
+mehrdad89/autonomous-driving-simulation-suite,3,MIT,permissive,MIT License,github,master,0,2024-09-06T12:59:39Z,False,2026-10-04
+mehrdad89/DrivingSimVolvoCars,70,MPL-2.0,permissive,Mozilla Public License 2.0,github,master,0,2024-10-07T13:35:20Z,False,2026-10-04
+meng2180/FuzzScene,35,,review,,github,main,9,2026-02-03T06:14:59Z,False,2026-10-04
+meng2180/V2X-Cooperative-Perception,13,,review,,github,main,5,2026-03-01T02:15:07Z,False,2026-10-04
+miao3210/VLM-spatial-reasoning,3,,review,,github,main,0,2025-12-04T14:27:27Z,False,2026-10-04
+mljack/scenariostudio,170,MPL-2.0,permissive,Mozilla Public License 2.0,github,scenario_studio,3,2026-08-10T12:53:57Z,False,2026-10-04
+Moha-C/autonomous-vehicule-VLA,15,,review,,github,main,0,2026-09-02T15:57:57Z,False,2026-10-04
+Moha-C/vla-av,45,,review,,github,main,0,2026-09-01T14:41:04Z,False,2026-10-04
+MohanThota/Scenario_Generation,4,,review,,github,main,0,2025-09-30T23:00:24Z,False,2026-10-04
+Molu15/EchoDrive,15,MIT,permissive,MIT License,github,main,0,2026-08-16T14:09:43Z,False,2026-10-04
+moonstarsky37/pyxodr,1,MIT,permissive,MIT License,github,main,11,2020-12-08T03:48:13Z,False,2026-10-04
+MORAI-Autonomous/MORAI-SimControl_v2.1,3,Apache-2.0,permissive,Apache License 2.0,github,main,1,2026-09-11T07:54:57Z,False,2026-10-04
+moritzwassmer/APPRAS_e2e_imitation,13,,review,,github,main,0,2026-04-20T12:44:50Z,False,2026-10-04
+mottajacopo/MottaBonora-CarlaScenarioGenerator,29,,review,,github,main,0,2021-04-20T08:44:08Z,False,2026-10-04
+MrMushroom/CarlaScenarioLoader,9,MIT,permissive,MIT License,github,master,19,2019-06-03T16:48:45Z,False,2026-10-04
+nacef112/kaut-project,15,,review,,github,main,0,2026-08-25T19:49:29Z,False,2026-10-04
+nasigang/FallbackMRC_2024,54,,review,,github,main,1,2024-12-06T02:39:38Z,False,2026-10-04
+neocodered/MomAD-EN4554,30,MIT,permissive,MIT License,github,main,0,2025-12-08T14:42:41Z,False,2026-10-04
+NEWSLabNTU/carla-scenario-bridge,10,,review,,github,main,0,2026-09-10T08:41:35Z,False,2026-10-04
+NgaLogic/openscenario,4,,review,,github,main,1,2026-02-06T15:37:36Z,False,2026-10-04
+niedr/OpenScenarioConverter,2,,review,,github,main,0,2025-06-24T09:21:47Z,False,2026-10-04
+nikolai-khriapov/modular2simple,70,,review,,github,main,0,2024-10-26T06:55:04Z,False,2026-10-04
+NJUDeepEngine/LASER,22,MIT,permissive,MIT License,github,main,2,2025-06-20T12:12:50Z,False,2026-10-04
+Noce99/NutFuser,22,,review,,github,main,0,2024-11-20T13:33:22Z,False,2026-10-04
+NotSahilRamane/DorleCoAV,1,,review,,github,main,0,2022-08-24T11:25:00Z,False,2026-10-04
+nujufas/acc,8,,review,,github,master,0,2026-02-18T07:31:18Z,False,2026-10-04
+nullmax-vision/HiP-AD,15,Apache-2.0,permissive,Apache License 2.0,github,main,140,2025-10-21T11:10:15Z,False,2026-10-04
+openads-project/openadsim,7,Apache-2.0,permissive,Apache License 2.0,github,main,10,2026-09-12T09:42:50Z,False,2026-10-04
+OpenHUTB/carla_0.9.14,24,MIT,permissive,MIT License,github,master,2,2024-01-30T09:40:03Z,False,2026-10-04
+OpenHUTB/doc,24,MIT,permissive,MIT License,github,master,126,2026-09-07T07:48:38Z,False,2026-10-04
+OpenHUTB/ros2,1,,review,,github,master,8,2026-09-13T13:42:33Z,False,2026-10-04
+openMSL/sl-2-0-traffic-participant-model-repository-template,6,MPL-2.0,permissive,Mozilla Public License 2.0,github,main,3,2024-06-24T08:03:10Z,False,2026-10-04
+openMSL/sl-3-1-osc-alks-scenarios,34,MPL-2.0,permissive,MPL-2.0,manual: Checked 2026-10-04: LICENSE preamble (Copyright 2020-2024 BMW AG) and README both state MPL-2.0; GitHub detector returns NOASSERTION because of the preamble,master,125,2025-02-11T13:44:46Z,False,2026-10-04
+opensbt/opensbt-core,5,Apache-2.0,permissive,Apache License 2.0,github,main,7,2026-03-29T10:41:34Z,False,2026-10-04
+ORNL-Real-Sim/FIXS,4,,review,,github,main,19,2026-09-13T18:24:08Z,False,2026-10-04
+p0pular131/SKKUL_BUS,30,,review,,github,main,0,2025-05-27T18:04:17Z,False,2026-10-04
+pagand/e2etransfuser,26,MIT,permissive,MIT License,github,main,17,2024-09-09T21:19:06Z,False,2026-10-04
+path2v2x/v2x-drive,3,,review,,github,main,0,2026-09-03T18:38:26Z,False,2026-10-04
+patrickw16/sim_loop,6,GPL-3.0,copyleft,GNU General Public License v3.0,github,main,0,2025-06-25T18:30:26Z,False,2026-10-04
+Patrone411/WOMD_Scenario_Extraction,22,,review,,github,main,1,2026-01-29T16:34:03Z,False,2026-10-04
+PerpetuumProgress/OVAL-Assets,198,,review,,github,main,2,2024-12-12T18:50:06Z,False,2026-10-04
+Persival-GmbH/asam-openx-assets,2,MPL-2.0,permissive,Mozilla Public License 2.0,github,main,8,2026-05-13T07:04:30Z,False,2026-10-04
+pipixia228/self-copy,5,,review,,github,main,0,2024-01-30T06:14:32Z,True,2026-10-04
+pisa-hut/simulation-core,1,,review,,github,main,0,2026-08-11T11:32:27Z,False,2026-10-04
+PMSFIT/osc-simulator,1,MPL-2.0,permissive,MPL-2.0,manual: LICENSE states MPL 2.0 (checked 2026-10-04); detector NOASSERTION,main,0,2026-07-14T13:09:25Z,False,2026-10-04
+PrathamDesai07/CarlaSimulation,13,MIT,permissive,MIT License,github,main,0,2026-07-08T08:47:50Z,False,2026-10-04
+pratiksinghjadhao-maker/IDP_KPIT,22,,review,,github,main,0,2026-08-30T17:04:58Z,False,2026-10-04
+pratiksinghlad/openx-studio,2,MIT,permissive,MIT License,github,main,0,2026-09-05T20:12:35Z,False,2026-10-04
+proroklab/resilient-fusion,13,,review,,github,master,3,2022-05-18T09:23:09Z,False,2026-10-04
+ptrckhmmr/Deep-Reinforcement-Learning,3,MIT,permissive,MIT License,github,main,2,2020-12-24T14:12:25Z,False,2026-10-04
+QingZhuanya/carla-scenarios_9.12,15,MIT,permissive,MIT License,github,main,1,2023-08-20T10:46:17Z,False,2026-10-04
+RA-Consulting-GmbH/de.rac.openscenario.test.client,1,Apache-2.0,permissive,Apache License 2.0,github,main,1,2022-08-25T10:08:33Z,False,2026-10-04
+RA-Consulting-GmbH/openscenario.api.test,185,Apache-2.0,permissive,Apache License 2.0,github,master,40,2025-03-24T11:54:35Z,False,2026-10-04
+rajiv143/NL-OpenScenario,850,,review,,github,master,0,2026-04-16T10:28:03Z,False,2026-10-04
+raulsenaferreira/SiMOOD,20,,review,,github,main,5,2023-01-13T13:51:05Z,False,2026-10-04
+RAVIVANAMA/Autonomy_Safety_Analyzer_Tool,114,,review,,github,main,4,2026-03-08T13:42:18Z,False,2026-10-04
+RBuck8339/kh2025CVTrafficSynth,22,,review,,github,main,1,2025-12-04T18:31:45Z,False,2026-10-04
+reihalla03-hue/ros2_ws,127,,review,,github,main,0,2026-05-20T11:14:13Z,False,2026-10-04
+RespectTang/CSVtoOpenscenario,17,,review,,github,main,2,2023-04-05T08:38:16Z,False,2026-10-04
+RI-SE/ATOS,9,MPL-2.0,permissive,Mozilla Public License 2.0,github,dev,19,2026-07-10T11:20:49Z,False,2026-10-04
+RI-SE/openscenario-rs,6,GPL-3.0,copyleft,GNU General Public License v3.0,github,main,1,2026-09-11T08:56:37Z,False,2026-10-04
+Rishav-Paramhans/openscneario-llm-copilot,89,,review,,github,main,0,2024-10-14T21:08:10Z,False,2026-10-04
+Rishisharma029/sih26037,5,,review,,github,main,0,2026-09-08T15:42:08Z,False,2026-10-04
+RiskBench/RiskBench,4,,review,,github,main,0,2022-12-02T12:48:12Z,False,2026-10-04
+RobeSafe-UAH/Techs4AgeCar-CARLA-Scenario-Runner,62,MIT,permissive,MIT License,github,master,4,2022-10-17T09:01:03Z,False,2026-10-04
+robincs07/tabiji,17,MIT,permissive,MIT License,github,main,0,2026-06-08T09:57:37Z,False,2026-10-04
+Robomous/RoadMaker,17,Apache-2.0,permissive,Apache License 2.0,github,main,1,2026-08-12T16:29:38Z,False,2026-10-04
+Robomous/Scena,17,Apache-2.0,permissive,Apache License 2.0,github,main,1,2026-08-02T14:56:55Z,False,2026-10-04
+RoboticsLabURJC/2022-tfg-juancamilo-carmona,1,,review,,github,master,2,2023-10-14T13:59:35Z,False,2026-10-04
+Rosswall/CARL,30,,review,,github,main,0,2025-11-14T08:32:14Z,False,2026-10-04
+rsasaki0109/RoboSim,11,Apache-2.0,permissive,Apache License 2.0,github,main,8,2026-09-13T18:16:46Z,False,2026-10-04
+ru-racer/ru-racer,2,,review,,github,main,2,2026-02-20T20:49:14Z,False,2026-10-04
+SadiaAman/AI_Driving_Scenarios_Project,178,,review,,github,main,0,2026-07-23T16:29:23Z,False,2026-10-04
+saifvandana/carlaSimulator,2,,review,,github,main,0,2026-06-25T02:12:08Z,False,2026-10-04
+SanjeethaPennada/DT-DRIVE,13,MIT,permissive,MIT License,github,main,1,2026-07-27T20:35:00Z,False,2026-10-04
+sarthak268/carla-offline-rl,2,,review,,github,master,4,2023-06-23T07:06:08Z,False,2026-10-04
+saxijing/zeus,3,,review,,github,main,6,2025-05-22T02:20:45Z,False,2026-10-04
+SaydulMursalinPeash/sd_car_carla_ros2,2,,review,,github,main,0,2025-08-27T20:12:18Z,False,2026-10-04
+scenario-extraction/scenarios_in_CarMaker,12,,review,,github,master,1,2022-11-22T02:58:57Z,False,2026-10-04
+scope-lab-vu/ANTI-CARLA,52,,review,,github,main,22,2022-04-22T17:35:21Z,False,2026-10-04
+scope-lab-vu/AV-Assurance,10,,review,,github,main,1,2022-05-23T14:33:59Z,False,2026-10-04
+scope-lab-vu/Resonate,10,MIT,permissive,MIT License,github,main,11,2021-07-04T00:54:27Z,False,2026-10-04
+SCP-CN-001/carla_autopilot,15,MIT,permissive,MIT License,github,main,1,2025-10-16T08:08:22Z,False,2026-10-04
+sdabbasi/DeepSight_v1,15,Apache-2.0,permissive,Apache License 2.0,github,main,0,2026-07-15T23:06:59Z,False,2026-10-04
+sgNicola/ACsim,16,MIT,permissive,MIT License,github,master,1,2024-12-02T11:44:10Z,False,2026-10-04
+Shamdan17/CarFormer,13,MIT,permissive,MIT License,github,main,57,2024-12-27T20:45:27Z,False,2026-10-04
+shellyzhang2019/InternProject,6,,review,,github,main,3,2021-09-07T08:24:43Z,False,2026-10-04
+Shreyasramakrishna90/ANTI-CARLA,26,,review,,github,main,3,2022-03-14T22:19:39Z,False,2026-10-04
+shun1412/autoware_ss2_scenic,6,,review,,github,main,0,2026-08-26T10:22:46Z,False,2026-10-04
+SimForgeinc/simforge-oss,5,Apache-2.0,permissive,Apache License 2.0,github,main,1,2026-09-13T23:16:48Z,False,2026-10-04
+simplexity-lab/SAFEVAR,26,,review,,github,main,0,2025-04-09T08:29:58Z,False,2026-10-04
+Simula-COMPLEX/EpiTESTER,26,,review,,github,main,0,2024-08-19T21:44:55Z,False,2026-10-04
+SohrabiAlir/carlaparking,46,,review,,github,main,0,2024-08-26T19:12:48Z,False,2026-10-04
+SSCT-Lab/Test-System-for-Collaborative-Perception,4,,review,,github,main,0,2023-05-23T13:56:59Z,False,2026-10-04
+SteadyBits/rai_av,13,,review,,github,master,0,2023-06-14T12:38:32Z,False,2026-10-04
+Sugar-98/carla_garage,30,MIT,permissive,MIT,manual: LICENSE is MIT text (checked 2026-10-04),main,0,2025-12-07T23:56:08Z,False,2026-10-04
+sysnycu/pisa-execution-demo,31,,review,,github,main,0,2026-08-10T09:39:36Z,False,2026-10-04
+taco-group/LangCoop,13,,review,,github,main,81,2025-09-12T20:45:07Z,False,2026-10-04
+TahaCarla/interfuser_openscenario,1,,review,,github,main,0,2024-05-31T09:03:24Z,False,2026-10-04
+Tencent/TAD_Sim,53,Apache-2.0,review,Apache-2.0,manual: Apache-2.0 except third-party components listed in LICENSE; kept pointer-only until xosc files under third_party/ are separated (checked 2026-10-04),main,465,2026-07-13T01:41:49Z,False,2026-10-04
+The-Grad-Proj/CoolFormer,15,,review,,github,main,0,2025-06-29T19:09:57Z,False,2026-10-04
+theGreen-Coder/CARLA-Leaderboard-2.0,58,MIT,permissive,MIT License,github,leaderboard_2,2,2025-11-25T22:17:43Z,False,2026-10-04
+theodorechapman/scale-diffusion,45,,review,,github,main,2,2026-02-01T16:32:47Z,False,2026-10-04
+theoutsider24/musicc,13,AGPL-3.0,copyleft,GNU Affero General Public License v3.0,github,master,1,2022-02-10T12:14:07Z,False,2026-10-04
+Thinklab-SJTU/Bench2Drive-Speed,30,CC-BY-NC-ND-4.0,review,CC-BY-NC-ND-4.0,manual: non-commercial no-derivatives licence; pointer-only (checked 2026-10-04),main,32,2026-05-07T09:29:30Z,False,2026-10-04
+thippeswammy/Carla,2,,review,,github,master,0,2025-03-16T13:53:37Z,False,2026-10-04
+tianhaogutum/tum_bachelorthesis,5,Apache-2.0,permissive,Apache License 2.0,github,main,1,2024-10-22T12:40:46Z,False,2026-10-04
+TianZheng095/OpenScenario2SUMO_Converter,35,,review,,github,main,0,2023-09-08T12:07:54Z,False,2026-10-04
+TianZheng095/OpenSCENARIO2SUMO_unuse,2,,review,,github,main,0,2023-07-05T12:59:57Z,False,2026-10-04
+tier4/scenario_simulator_v2,6,Apache-2.0,permissive,Apache License 2.0,github,master,154,2026-09-11T06:55:35Z,False,2026-10-04
+TinaMenke/Deep-Reinforcement-Learning,3,MIT,permissive,MIT License,github,master,11,2022-12-08T07:26:06Z,False,2026-10-04
+tkortz/carla_scenario_runner,4,MIT,permissive,MIT License,github,master,0,2021-09-16T14:57:38Z,False,2026-10-04
+toffanetto/im420x,2,,review,,github,main,0,2024-11-27T18:35:57Z,False,2026-10-04
+TomcatCbn/esmini-self,45,MPL-2.0,permissive,Mozilla Public License 2.0,github,main,0,2021-04-28T08:57:58Z,False,2026-10-04
+TomcatCbn/openscenario-total,45,,review,,github,master,1,2021-05-11T14:17:27Z,False,2026-10-04
+tplaysted/scenario_runner,13,MIT,permissive,MIT License,github,main,0,2025-08-26T07:58:25Z,False,2026-10-04
+TrustAISys/cmad-gym,7,MIT,permissive,MIT License,github,main,3,2024-12-08T02:01:51Z,False,2026-10-04
+TrustAISys/scenario_runner_rl,17,MIT,permissive,MIT License,github,main,0,2024-12-07T13:47:47Z,False,2026-10-04
+TryoneBest/M-SDL_OpenSCENARIO,4,,review,,github,master,5,2020-07-02T14:41:52Z,False,2026-10-04
+UCR-CISL/EE267_Project,22,MIT,permissive,MIT License,github,main,1,2024-11-13T00:25:47Z,False,2026-10-04
+UCR-FSAE/rkart,17,,review,,github,main,0,2024-05-22T16:57:36Z,False,2026-10-04
+ucsdwcsng/C-Shenron,15,MIT,permissive,MIT License,github,main,8,2026-05-20T08:30:22Z,False,2026-10-04
+umbrellalily/2024_UGRP_OPENSCENARIO_pipeline,57,,review,,github,master,2,2024-12-18T01:45:47Z,False,2026-10-04
+uncap-project/uncap-project.github.io,15,,review,,github,main,5,2026-05-19T08:09:21Z,False,2026-10-04
+URML-MARS/URML,1,Apache-2.0,permissive,Apache License 2.0,github,main,27,2026-09-13T19:07:54Z,False,2026-10-04
+USTCAVSA/gym-lass,14,MPL-2.0,permissive,Mozilla Public License 2.0,github,main,1,2022-10-08T03:12:00Z,False,2026-10-04
+UT-ADL/autoware_mini,13,MIT,permissive,MIT License,github,release,93,2026-08-05T23:11:40Z,False,2026-10-04
+UT-ADL/visual-scenario-editor,1,,review,,github,main,10,2026-08-31T08:15:36Z,False,2026-10-04
+UTAustin-SwarmLab/SynDiff-AD,13,MIT,permissive,MIT License,github,main,3,2025-10-15T02:18:09Z,False,2026-10-04
+uwoagentslab/openscenario_esmini_viz,59,,review,,github,main,0,2026-02-14T20:01:52Z,False,2026-10-04
+valihagi/mats_traffic_gen_modifed,16,MIT,permissive,MIT License,github,main,0,2025-07-28T07:40:14Z,False,2026-10-04
+VDIGPKU/HiDrive,15,CC-BY-NC-ND-4.0,review,CC-BY-NC-ND-4.0,manual: non-commercial no-derivatives licence; pointer-only (checked 2026-10-04),main,18,2026-07-28T02:40:54Z,False,2026-10-04
+vectorgrp/OSC-NCAP-scenarios,138,MPL-2.0,permissive,MPL-2.0,manual: Checked 2026-10-04: LICENSE preamble (Copyright 2024 Vector Informatik GmbH) and README both state MPL-2.0; GitHub detector returns NOASSERTION because of the preamble,main,76,2026-08-17T06:59:14Z,False,2026-10-04
+vevalabs/exmini,1,,review,,github,main,1,2025-08-12T19:20:20Z,False,2026-10-04
+vexedmouse09/CARLA-YOLOP,2,MIT,permissive,MIT License,github,main,0,2024-07-26T15:53:31Z,False,2026-10-04
+Violin9906/esmini-issue--279,7,,review,,github,main,0,2022-05-01T15:46:40Z,False,2026-10-04
+VPA2998/esmini-storyboard-viewer,2,MPL-2.0,permissive,Mozilla Public License 2.0,github,master,0,2026-09-03T21:23:34Z,False,2026-10-04
+VPA2998/scenario-bridge,2,MIT,permissive,MIT License,github,main,0,2026-09-04T14:47:08Z,False,2026-10-04
+wantsu/DiffAD,15,CC-BY-NC-4.0,review,CC-BY-NC-4.0,manual: non-commercial licence; pointer-only (checked 2026-10-04),main,40,2025-07-18T11:19:22Z,False,2026-10-04
+WinckelData/carla_garage,15,MIT,permissive,MIT License,github,master,0,2023-11-29T15:11:42Z,False,2026-10-04
+wjs615/Carla-Autoware_ScenarioRunner,16,MIT,permissive,MIT License,github,main,1,2023-02-27T05:58:40Z,False,2026-10-04
+wlrudxo/AGI_VOICE,2,,review,,github,master,7,2026-08-19T09:27:23Z,False,2026-10-04
+xfhelen/MMBench,13,MIT,permissive,MIT License,github,main,23,2024-12-13T14:25:23Z,False,2026-10-04
+xfqbuaa/carla_simulator_Chinese,1,,review,,github,master,107,2024-01-20T06:13:38Z,False,2026-10-04
+xiaomi-mlab/MindDrive,15,Apache-2.0,permissive,Apache License 2.0,github,main,266,2026-06-23T02:21:07Z,False,2026-10-04
+xiaomi-research/unidrivevla,15,Apache-2.0,permissive,Apache License 2.0,github,main,241,2026-09-10T12:05:04Z,False,2026-10-04
+xudong19/carla_challenge,13,,review,,github,master,0,2021-09-24T04:53:19Z,False,2026-10-04
+xxxx-1016/scenario,1082,,review,,github,main,0,2026-06-13T08:44:23Z,False,2026-10-04
+XytronCo/xytron-ros-bridge,1,MIT,permissive,MIT License,github,master,1,2021-07-27T14:19:55Z,False,2026-10-04
+Y1Ka1/MFPAD,30,MIT,permissive,MIT License,github,master,0,2026-05-05T13:12:24Z,False,2026-10-04
+yagol2020/ADSFuzzEval,52,,review,,github,master,3,2026-01-23T05:39:39Z,False,2026-10-04
+yagol2020/SimADFuzz,26,Apache-2.0,permissive,Apache License 2.0,github,master,11,2025-04-11T01:33:11Z,False,2026-10-04
+yangyh408/onsite-test-server,9640,GPL-3.0,copyleft,GNU General Public License v3.0,github,main,0,2023-09-07T12:26:53Z,False,2026-10-04
+yuangao-tum/xosc-fsm-visualizer,9,PolyForm-Noncommercial-1.0.0,review,PolyForm-Noncommercial-1.0.0,manual: non-commercial licence; pointer-only (checked 2026-10-04),main,0,2026-06-19T21:01:31Z,False,2026-10-04
+yucedagonurcan/life2scenario_core,22,,review,,github,main,1,2024-04-17T12:09:27Z,False,2026-10-04
+Yvonne511/CaRL_benchmark_pufferdrive,30,LicenseRef-Civil-M,review,LicenseRef-Civil-M,manual: same Civil-M licence as autonomousvision/CaRL; pointer-only (checked 2026-10-04),main,0,2026-06-02T20:08:14Z,False,2026-10-04
+ywyeli/AnyDrive,14,MIT,permissive,MIT License,github,master,0,2024-10-03T11:00:16Z,False,2026-10-04
+ywyeli/lidar-camera-placement,14,MIT,permissive,MIT License,github,main,21,2024-09-14T10:44:34Z,False,2026-10-04
+ywyeli/Place3D,14,MIT,permissive,MIT License,github,main,54,2025-07-03T00:46:40Z,False,2026-10-04
+ywyeli/UniDrive,14,MIT,permissive,MIT License,github,master,98,2025-07-02T23:59:58Z,False,2026-10-04
+zaidtahirbutt/Situation-Coverage-based-AV-Testing-Framework-in-CARLA,13,MIT,permissive,MIT License,github,main,14,2023-03-30T10:57:47Z,False,2026-10-04
+ZGC-Safety-critical-scenario-for-AD/Safety2Drive,342,,review,,github,main,17,2026-04-08T01:20:34Z,False,2026-10-04
+zhangkuo1413-1/OpenX_Convertor,1,,review,,github,main,2,2021-10-22T10:53:03Z,False,2026-10-04
+Zhujiaxu/zjx_rsim_driver,5,,review,,github,main,0,2026-07-30T07:22:04Z,False,2026-10-04
+ZiweiSong96/autoware_stable_version,6,Apache-2.0,permissive,Apache License 2.0,github,main,0,2025-03-24T08:50:41Z,False,2026-10-04
+ZPJ-LEFT/Environment,2,,review,,github,main,0,2025-06-27T08:38:27Z,False,2026-10-04
+ZW628/Shenlan_Planning_Control_Course,3,,review,,github,main,13,2024-01-10T08:42:24Z,False,2026-10-04
+zyz-2299mod10/PDM,15,,review,,github,main,0,2026-01-05T11:15:07Z,False,2026-10-04
+zzq54666/agentic-openscenario-validator,12,MIT,permissive,MIT License,github,main,0,2026-03-24T00:05:09Z,False,2026-10-04

@@ -1,0 +1,585 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/gpokhark/openscenario-mining/schema/scenario_version.schema.json",
+  "title": "scenario_version",
+  "description": "One row per (commit, .xosc path) change. Every key is always present; fields that do not apply to the file type are null or empty. See docs/step4-vocabulary.md.",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "0.2.2"
+    },
+    "scenario_id": {
+      "type": "string",
+      "description": "Stable id of one file lineage within a repo, following git renames: <repo>::<path at creation>[#n if the path is re-created after deletion]."
+    },
+    "repo": {
+      "type": "string"
+    },
+    "license_spdx": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "license_class": {
+      "enum": [
+        "permissive",
+        "copyleft",
+        "review"
+      ]
+    },
+    "publish_contents": {
+      "type": "boolean",
+      "description": "true only if the repository is permissive AND the blob was first seen in a permissive repository (rule B, docs/step6-qc.md); otherwise publish a pointer plus this record only."
+    },
+    "repo_head_sha": {
+      "type": "string"
+    },
+    "commit": {
+      "type": "string"
+    },
+    "parents": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "authored_at": {
+      "type": "string"
+    },
+    "committed_at": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
+    "old_path": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "change_type": {
+      "enum": [
+        "added",
+        "modified",
+        "renamed",
+        "deleted"
+      ]
+    },
+    "blob_sha": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "git blob SHA of the file content at this commit; doubles as the content hash. null for deletions."
+    },
+    "blob_size": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "message": {
+      "type": "string"
+    },
+    "n_files_in_commit": {
+      "type": "integer"
+    },
+    "code_changed_in_commit": {
+      "type": "boolean",
+      "description": "A programming-language source file changed in the same commit (heuristic extension list, scenariomine/collect.py)."
+    },
+    "file_type": {
+      "enum": [
+        "scenario",
+        "catalog",
+        "parameter_distribution",
+        "unknown",
+        "not_openscenario",
+        "invalid_xml",
+        null
+      ]
+    },
+    "parse_error": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "osc_version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "osc_rev_major": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "osc_rev_minor": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "osc_version_in_range": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "xsd_version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "validates_against_xsd": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "xsd_error_count": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "xsd_first_error": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "header_description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "header_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "type": {
+            "enum": [
+              "vehicle",
+              "pedestrian",
+              "misc_object",
+              "catalog_reference",
+              "unspecified"
+            ]
+          },
+          "category": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "name",
+          "type",
+          "category"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "n_entities": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_vehicles": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_pedestrians": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_misc_objects": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_catalog_entities": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_stories": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_acts": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_maneuver_groups": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_maneuvers": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_events": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_event_actions": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_init_actions": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_conditions": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "init_action_types": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "event_action_types": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "action_families": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "trigger_types": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "environment": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "n_environment_definitions": {
+              "type": "integer"
+            },
+            "weather_present": {
+              "type": "boolean"
+            },
+            "precipitation_type": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "fog_present": {
+              "type": "boolean"
+            },
+            "time_of_day_present": {
+              "type": "boolean"
+            },
+            "road_condition_present": {
+              "type": "boolean"
+            },
+            "road_friction_scale": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "n_environment_definitions",
+            "weather_present",
+            "precipitation_type",
+            "fog_present",
+            "time_of_day_present",
+            "road_condition_present",
+            "road_friction_scale"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "parameters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "value": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "name",
+          "type",
+          "value"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "catalog_refs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "catalog_name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "entry_name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "catalog_name",
+          "entry_name"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "catalog_locations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kind": {
+            "type": "string"
+          },
+          "path": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "kind",
+          "path"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "road_network": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "logic_file": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "scene_graph_file": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "logic_file",
+            "scene_graph_file"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "catalog_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "catalog_entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kind": {
+            "type": "string"
+          },
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "kind",
+          "name"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "scenario_file": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "distribution_kind": {
+      "enum": [
+        "deterministic",
+        "stochastic",
+        null
+      ]
+    },
+    "canonical_hash": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "SHA-256 of the C14N form with comments and whitespace-only text removed; equal hashes mean the files differ only in formatting or comments. null when the file is not well-formed XML."
+    },
+    "maneuver_names": {
+      "type": "array",
+      "items": {
+        "type": [
+          "string",
+          "null"
+        ]
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "scenario_id",
+    "repo",
+    "license_spdx",
+    "license_class",
+    "publish_contents",
+    "repo_head_sha",
+    "commit",
+    "parents",
+    "authored_at",
+    "committed_at",
+    "path",
+    "old_path",
+    "change_type",
+    "blob_sha",
+    "blob_size",
+    "message",
+    "n_files_in_commit",
+    "code_changed_in_commit",
+    "file_type",
+    "parse_error",
+    "osc_version",
+    "osc_rev_major",
+    "osc_rev_minor",
+    "osc_version_in_range",
+    "xsd_version",
+    "validates_against_xsd",
+    "xsd_error_count",
+    "xsd_first_error",
+    "header_description",
+    "header_date",
+    "entities",
+    "n_entities",
+    "n_vehicles",
+    "n_pedestrians",
+    "n_misc_objects",
+    "n_catalog_entities",
+    "n_stories",
+    "n_acts",
+    "n_maneuver_groups",
+    "n_maneuvers",
+    "n_events",
+    "n_event_actions",
+    "n_init_actions",
+    "n_conditions",
+    "init_action_types",
+    "event_action_types",
+    "action_families",
+    "trigger_types",
+    "environment",
+    "parameters",
+    "catalog_refs",
+    "catalog_locations",
+    "road_network",
+    "catalog_name",
+    "catalog_entries",
+    "scenario_file",
+    "distribution_kind",
+    "canonical_hash",
+    "maneuver_names"
+  ],
+  "additionalProperties": false
+}

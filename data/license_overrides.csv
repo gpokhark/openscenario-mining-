@@ -1,0 +1,18 @@
+full_name,license_spdx,license_class,note
+vectorgrp/OSC-NCAP-scenarios,MPL-2.0,permissive,"Checked 2026-10-04: LICENSE preamble (Copyright 2024 Vector Informatik GmbH) and README both state MPL-2.0; GitHub detector returns NOASSERTION because of the preamble"
+openMSL/sl-3-1-osc-alks-scenarios,MPL-2.0,permissive,"Checked 2026-10-04: LICENSE preamble (Copyright 2020-2024 BMW AG) and README both state MPL-2.0; GitHub detector returns NOASSERTION because of the preamble"
+GAIA-X4PLC-AAD/scenario-asset-example,MPL-2.0,permissive,LICENSE states MPL 2.0 (checked 2026-10-04); detector NOASSERTION
+PMSFIT/osc-simulator,MPL-2.0,permissive,LICENSE states MPL 2.0 (checked 2026-10-04); detector NOASSERTION
+Sugar-98/carla_garage,MIT,permissive,LICENSE is MIT text (checked 2026-10-04)
+justinbrianhwang/TransFuser_UI_V2,MIT,permissive,LICENSE is MIT; xosc files are vendored CARLA scenario_runner examples (checked 2026-10-04)
+dawoodwasif/DBRA-for-AVs-Safety,LGPL-2.1,copyleft,LICENSE is Fraunhofer IESE GNU Library GPL text; pointer-only (checked 2026-10-04)
+JaRei/sinadra,LGPL-2.1,copyleft,"LICENSE is Fraunhofer IESE LGPL text, README badge LGPL 2.1; pointer-only (checked 2026-10-04)"
+autonomousvision/CaRL,LicenseRef-Civil-M,review,"MIT text plus Civil Clause v1 (no weapons use; derivatives must keep clause): a field-of-use restriction, so not treated as permissive; pointer-only (checked 2026-10-04)"
+Yvonne511/CaRL_benchmark_pufferdrive,LicenseRef-Civil-M,review,same Civil-M licence as autonomousvision/CaRL; pointer-only (checked 2026-10-04)
+henrySunyh/Carla-Roach-Data-Collection,CC-BY-NC-4.0,review,non-commercial licence; pointer-only (checked 2026-10-04)
+wantsu/DiffAD,CC-BY-NC-4.0,review,non-commercial licence; pointer-only (checked 2026-10-04)
+Thinklab-SJTU/Bench2Drive-Speed,CC-BY-NC-ND-4.0,review,non-commercial no-derivatives licence; pointer-only (checked 2026-10-04)
+VDIGPKU/HiDrive,CC-BY-NC-ND-4.0,review,non-commercial no-derivatives licence; pointer-only (checked 2026-10-04)
+yuangao-tum/xosc-fsm-visualizer,PolyForm-Noncommercial-1.0.0,review,non-commercial licence; pointer-only (checked 2026-10-04)
+lgsvl/simulator-2019.05-obsolete,LicenseRef-LGSVL-EULA,review,proprietary software licence agreement; pointer-only (checked 2026-10-04)
+Tencent/TAD_Sim,Apache-2.0,review,Apache-2.0 except third-party components listed in LICENSE; kept pointer-only until xosc files under third_party/ are separated (checked 2026-10-04)

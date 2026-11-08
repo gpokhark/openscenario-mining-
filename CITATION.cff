@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset or tool, please cite it as below."
+title: "ScenarioMine: A Version-History Dataset of ASAM OpenSCENARIO Files from Open-Source Repositories"
+type: dataset
+version: "0.1.0"
+# TODO before release: set date-released, add the Zenodo DOI, confirm author order,
+# ORCIDs and affiliations with both authors, and add the code licence (see docs/dataset-card.md).
+authors:
+  - family-names: Pokharkar
+    given-names: Gaurav
+  - family-names: Lovato
+    given-names: Federico
+repository-code: "https://github.com/gpokhark/openscenario-mining"
+# doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - OpenSCENARIO
+  - scenario-based testing
+  - automated driving
+  - mining software repositories

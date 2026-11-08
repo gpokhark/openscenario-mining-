@@ -1,0 +1,398 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "scenario_change",
+  "description": "One row per step between consecutive versions of one scenario lineage. See docs/step5-evolution.md.",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "0.1.0"
+    },
+    "scenario_id": {
+      "type": "string"
+    },
+    "repo": {
+      "type": "string"
+    },
+    "license_class": {
+      "enum": [
+        "permissive",
+        "copyleft",
+        "review"
+      ]
+    },
+    "publish_contents": {
+      "type": "boolean"
+    },
+    "from_commit": {
+      "type": "string"
+    },
+    "to_commit": {
+      "type": "string"
+    },
+    "from_sha": {
+      "type": "string"
+    },
+    "to_sha": {
+      "type": "string"
+    },
+    "from_authored_at": {
+      "type": "string"
+    },
+    "authored_at": {
+      "type": "string"
+    },
+    "committed_at": {
+      "type": "string"
+    },
+    "from_path": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
+    "path_changed": {
+      "type": "boolean"
+    },
+    "content_changed": {
+      "type": "boolean",
+      "description": "git blob SHAs differ."
+    },
+    "canonical_changed": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "canonical hashes differ; false means a formatting/comment-only edit; null when either side is not well-formed XML."
+    },
+    "file_type_from": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "file_type_to": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "comparable": {
+      "type": "boolean",
+      "description": "both versions are in-range scenarios, so the field-level diffs below are populated; otherwise they are null."
+    },
+    "osc_version_from": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "osc_version_to": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "osc_version_bumped": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "xsd_valid_from": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "xsd_valid_to": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "entities_added": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "entities_removed": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "maneuvers_added": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "maneuvers_removed": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "action_types_added": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "action_types_removed": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "trigger_types_added": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "trigger_types_removed": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "parameters_added": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "parameters_removed": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "parameters_changed": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "old_value": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "new_value": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "old_type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "new_type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "name",
+          "old_value",
+          "new_value",
+          "old_type",
+          "new_type"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "n_maneuvers_delta": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_events_delta": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "n_conditions_delta": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "trigger_conditions_changed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "environment_changed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "road_network_changed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "catalog_refs_changed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "change_kinds": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "path",
+          "cosmetic",
+          "version",
+          "entities",
+          "maneuvers",
+          "parameters",
+          "triggers",
+          "environment",
+          "road_network",
+          "catalog_refs",
+          "other_content",
+          "unparsed_content"
+        ]
+      }
+    },
+    "commit_message": {
+      "type": "string"
+    },
+    "associated_pr": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    },
+    "closed_issues": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    },
+    "other_refs": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    },
+    "source_code_changed_same_commit": {
+      "type": "boolean"
+    },
+    "n_files_in_commit": {
+      "type": "integer"
+    },
+    "n_scenarios_changed_in_commit": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "schema_version",
+    "scenario_id",
+    "repo",
+    "license_class",
+    "publish_contents",
+    "from_commit",
+    "to_commit",
+    "from_sha",
+    "to_sha",
+    "from_authored_at",
+    "authored_at",
+    "committed_at",
+    "from_path",
+    "path",
+    "path_changed",
+    "content_changed",
+    "canonical_changed",
+    "file_type_from",
+    "file_type_to",
+    "comparable",
+    "osc_version_from",
+    "osc_version_to",
+    "osc_version_bumped",
+    "xsd_valid_from",
+    "xsd_valid_to",
+    "entities_added",
+    "entities_removed",
+    "maneuvers_added",
+    "maneuvers_removed",
+    "action_types_added",
+    "action_types_removed",
+    "trigger_types_added",
+    "trigger_types_removed",
+    "parameters_added",
+    "parameters_removed",
+    "parameters_changed",
+    "n_maneuvers_delta",
+    "n_events_delta",
+    "n_conditions_delta",
+    "trigger_conditions_changed",
+    "environment_changed",
+    "road_network_changed",
+    "catalog_refs_changed",
+    "change_kinds",
+    "commit_message",
+    "associated_pr",
+    "closed_issues",
+    "other_refs",
+    "source_code_changed_same_commit",
+    "n_files_in_commit",
+    "n_scenarios_changed_in_commit"
+  ],
+  "additionalProperties": false
+}
