@@ -26,7 +26,7 @@ def _read(directory, key):
                 import pyarrow.parquet as parquet
             except ImportError:
                 if not jl.exists():
-                    raise ImportError("reading Parquet needs pyarrow: pip install 'scenariomine[parquet]'")
+                    raise ImportError("reading Parquet needs pyarrow: uv sync --extra parquet")
             else:
                 return parquet.read_table(pq).to_pylist()
         if jl.exists():
