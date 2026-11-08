@@ -10,7 +10,7 @@ Searches the parsed corpus (`parsed/file_versions.*`, or the bundled five-reposi
 
 ## Pick the data
 
-- Full corpus: `--data parsed` (default). Exists only after the pipeline has run locally; check `ls parsed/file_versions.*`. If missing, say so and either use `--data data/sample` (5 repositories, about 340 scenarios) or offer the `mine-scenarios` skill.
+- Full corpus: `--data parsed` (default). Exists only after the pipeline has run locally; check `ls parsed/file_versions.*`. If missing, say so and either use `--data data/sample` (5 repositories, about 340 scenarios) or point the user to the README section on re-running the pipeline.
 - Always run with `uv run --extra parquet python -m scenariomine find ...` (Parquet needs pyarrow).
 
 ## Map the request to a command
