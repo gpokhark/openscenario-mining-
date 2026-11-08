@@ -4,12 +4,14 @@ title: "ScenarioMine: A Version-History Dataset of ASAM OpenSCENARIO Files from 
 type: dataset
 version: "0.1.0"
 # TODO before release: set date-released, confirm author order,
-# ORCIDs and affiliations with both authors, and add the code licence (see docs/dataset-card.md).
+# ORCIDs and affiliations with all authors.
 authors:
   - family-names: Pokharkar
     given-names: Gaurav
   - family-names: Lovato
     given-names: Federico
+  - family-names: Mkaouer
+    given-names: Mohamed Wiem
 license: MIT
 repository-code: "https://github.com/gpokhark/openscenario-mining-"
 keywords:
