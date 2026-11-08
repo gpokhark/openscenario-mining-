@@ -4,8 +4,8 @@ Collector, parser and query API for mining ASAM OpenSCENARIO (`.xosc`) files
 and their Git history from open-source repositories. This repository contains
 the **tool only**. It accompanies the paper *ScenarioMine: A Version-History
 Dataset of ASAM OpenSCENARIO Files from Open-Source Repositories* (MSR 2027,
-Data and Tool Showcase). The dataset itself is archived separately
-(Zenodo DOI: _to be added_).
+Data and Tool Showcase). The dataset is a separate artefact; this repository
+holds only the tool that builds and queries it.
 
 ## What it does
 
