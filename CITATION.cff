@@ -10,7 +10,7 @@ authors:
     given-names: Gaurav
   - family-names: Lovato
     given-names: Federico
-repository-code: "https://github.com/gpokhark/openscenario-mining"
+repository-code: "https://github.com/gpokhark/openscenario-mining-"
 keywords:
   - OpenSCENARIO
   - scenario-based testing
