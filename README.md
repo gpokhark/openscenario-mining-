@@ -121,7 +121,7 @@ project policy, not legal advice. The bundled sample follows it.
 The ASAM OpenSCENARIO XSDs are ASAM-licensed. `fetch-schemas` downloads them
 on your machine; they are not included here.
 
-The tool's own code licence: _to be added before release_.
+The tool's code is released under the MIT licence (`LICENSE`). That licence covers this code only, not the scenario files it collects, which keep their original repositories' licences.
 
 ## Citation
 
