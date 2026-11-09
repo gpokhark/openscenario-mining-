@@ -6,6 +6,8 @@ __pycache__/
 raw/
 parsed/
 schemas/
+# Raw screen recordings (the README uses the .mp4 versions)
+*.mov
 
 # >>> gitignore-skill: generated from toptal.com (do not edit inside this block) >>>
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,visualstudiocode,python,jupyternotebooks,latex,libreoffice,microsoftoffice,pythonvanilla,circuitpython,bazel,powershell,spreadsheet
@@ -382,7 +384,8 @@ TSWLatexianTemp*
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*

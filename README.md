@@ -7,6 +7,25 @@ Dataset of ASAM OpenSCENARIO Files from Open-Source Repositories* (MSR 2027,
 Data and Tool Showcase). The dataset is a separate artefact; this repository
 holds only the tool that builds and queries it.
 
+## Demo videos
+
+Two narrated recordings. Click a picture to open the video. The command-line demo uses the bundled sample. The skill demo was recorded against the full corpus, which this repository does not ship, so when you try the skill here it searches the sample and the hits will differ.
+
+**1. Command-line walkthrough (2 min 26 s):** loading the corpus, searching by topic (pedestrian, cut-in), a request the corpus cannot answer (speed bump), and the JSON output with licence and provenance.
+
+[![Command-line demo: searching scenarios with scenariomine find](examples/thumbs/command-line-demo.jpg)](examples/command-line-demo.mp4)
+
+**2. The Claude Code skill `find-scenarios` (3 min 11 s):** asking for scenarios in plain English and getting matches with the evidence, licence and a permanent link, and an honest "nothing here" when the corpus cannot answer.
+
+[![Claude Code skill demo: /find-scenarios pedestrian crossing](examples/thumbs/claude-skill-demo.jpg)](examples/claude-skill-demo.mp4)
+
+Run the command-line demo yourself (needs [uv](https://docs.astral.sh/uv/); no cloning or token):
+
+```bash
+uv sync --extra parquet --extra dev
+bash examples/demo.sh        # press Enter between steps
+```
+
 ## What it does
 
 ```
