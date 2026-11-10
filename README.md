@@ -13,11 +13,11 @@ Two narrated recordings. Click a picture to open the video. The command-line dem
 
 **1. Command-line walkthrough (2 min 26 s):** loading the corpus, searching by topic (pedestrian, cut-in), a request the corpus cannot answer (speed bump), and the JSON output with licence and provenance.
 
-[![Command-line demo: searching scenarios with scenariomine find](examples/thumbs/command-line-demo.jpg)](examples/command-line-demo.mp4)
+[![Command-line demo: searching scenarios with scenariomine find](examples/thumbs/command-line-demo.jpg)](https://youtu.be/I9Ke_HzsB0E)
 
 **2. The Claude Code skill `find-scenarios` (3 min 11 s):** asking for scenarios in plain English and getting matches with the evidence, licence and a permanent link, and an honest "nothing here" when the corpus cannot answer.
 
-[![Claude Code skill demo: /find-scenarios pedestrian crossing](examples/thumbs/claude-skill-demo.jpg)](examples/claude-skill-demo.mp4)
+[![Claude Code skill demo: /find-scenarios pedestrian crossing](examples/thumbs/claude-skill-demo.jpg)](https://youtu.be/mhuTmU_2PfE)
 
 Run the command-line demo yourself (needs [uv](https://docs.astral.sh/uv/); no cloning or token):
 
